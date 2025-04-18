@@ -1,0 +1,12 @@
+# File: requirements.txt
+
+streamlit
+openai
+scikit-learn
+matplotlib
+plotly
+bs4
+requests
+PyPDF2
+sentence-transformers
+hdbscan
